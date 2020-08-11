@@ -82,7 +82,7 @@ Function DisableCortana {
 }
 echo ......
 sleep 5
-echo Disabling Xbox features because is Playstation MasterRace over HERE!! Who uses this shit anyways...don't answer that!
+echo Disabling Xbox features because is Playstation MasterRace over HERE!! Who uses this shit anyways...don't answer that!'
 # Disable Xbox features
 Function DisableXboxFeatures {
 	Write-Output "Disabling Xbox features..."
